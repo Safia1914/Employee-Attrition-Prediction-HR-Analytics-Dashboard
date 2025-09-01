@@ -27,7 +27,6 @@ It combines **predictive analytics** with **business storytelling**, making it e
 ### 🔹 HR Analytics Dashboard (Power BI)
 - **Attrition Rate** (KPI Cards)
 - Attrition by **Department**
-- Attrition by **Age Groups**
 - Attrition by **Salary Bands**
 - Attrition by **Years at Company**
 - Gender vs Attrition
@@ -48,12 +47,9 @@ It combines **predictive analytics** with **business storytelling**, making it e
 Achieved 86.7% Accuracy with Logistic Regression
 
 Dashboard clearly highlights:
+The HR Analytics Dashboard provides a clear snapshot of employee attrition across different dimensions. From the KPIs at the top to breakdowns by department, business travel, gender, salary, and marital status, the visuals make it easy to see where attrition is highest and what factors may be driving it.
 
-Sales department has higher attrition
 
-Younger employees (20–30) leave more often
-
-Overtime significantly affects attrition
 
 🎯 Business Impact
 
